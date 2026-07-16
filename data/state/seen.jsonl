@@ -1,71 +1,3 @@
-{"key": "c7684635eb7cc5f082a666f9e7e23e00a826f8f4", "title": "barclays maintains equal weight on d r horton raises price target to 141", "tickers": ["DHI"], "ts": 1784029889.7508006}
-{"key": "9df18dfb7339794ab9b33658a5014f5a9a97e0f5", "title": "top 3 consumer stocks which could rescue your portfolio in july", "tickers": ["HLT"], "ts": 1784029894.1325831}
-{"key": "9ace127652b908a71166efaa2ecb15b42340f494", "title": "barclays maintains equal weight on masco raises price target to 82", "tickers": ["MAS"], "ts": 1784029894.1329093}
-{"key": "655d6e9446b86fb74b8df9852ac949fff0b97678", "title": "us government linked wallets transfer btc eth worth 289 million to coinbase says on chain analytics firm sell pressure incoming", "tickers": ["COIN"], "ts": 1784029896.253807}
-{"key": "91384f272364fe7e0ff092408c35a1239d636d97", "title": "wells fargo q2 adj eps 1 96 beats 1 72 estimate sales 22 622b beat 21 818b estimate", "tickers": ["WFC"], "ts": 1784029896.255885}
-{"key": "53f943decd83ef747dc7a56af7f3e634ac63bc80", "title": "barclays maintains equal weight on pultegroup raises price target to 123", "tickers": ["PHM"], "ts": 1784029898.148209}
-{"key": "ff7b5d16a1c1de5e2502421744f6d35e283ae69b", "title": "what s going on with micron technology stock tuesday", "tickers": ["MU"], "ts": 1784029900.0113552}
-{"key": "b554a5f12addd64c3f73b63e2bf1d1614a3f14b8", "title": "jp morgan ceo says u s economy has demonstrated notable resiliency this year with stronger business investment and hiring several risks are shifting including geopolitical tensions and wars sticky inflation large global fiscal deficits and elevated asset prices investment banking activity accelerated in q2 with ib fees up 30 market sentiment remains constructive for continued activity results included 4 6b net gain related to visa shares", "tickers": ["JPM"], "ts": 1784029900.0239651}
-{"key": "ab425081611c0c6cc3e73d0ad445f57f2a14ddfd", "title": "barclays downgrades avalonbay communities to equal weight raises price target to 205", "tickers": ["AVB"], "ts": 1784029900.0244732}
-{"key": "2da3100b57b63685689525b1f7a82f31c6d570bb", "title": "barclays downgrades equity residential to equal weight maintains price target to 76", "tickers": ["EQR"], "ts": 1784029902.0993161}
-{"key": "a7eb30e2660e72bcb71d8b566fba4c3a863c50ef", "title": "robinhood chain s eth surge revives ethereum s l2 debate but is the bullish read too simple", "tickers": ["HOOD"], "ts": 1784029904.6503794}
-{"key": "7c2e5ff52c289290d2404cccc0e147b69cc13ef6", "title": "meta stock just surged 21 in 3 weeks shay boloor calls it the market s latest darling", "tickers": ["AMZN", "META", "MSFT"], "ts": 1784029904.6560304}
-{"key": "72bc7690cf535db5749e0f70451a30e678dc70bd", "title": "barclays maintains equal weight on camden prop trust raises price target to 122", "tickers": ["CPT"], "ts": 1784029904.6564155}
-{"key": "22232342c17c6f33b089c4137529a3a42322adff", "title": "bank of america q2 eps 1 21 beats 1 13 estimate sales 31 558b beat 30 746b estimate", "tickers": ["BAC"], "ts": 1784029906.9012253}
-{"key": "93a60797f37edcdcfeec1bfb7bf5d675a913e90e", "title": "jpmorgan chase q2 adj eps 6 14 beats 5 79 estimate sales 58 020b beat 50 195b estimate", "tickers": ["JPM"], "ts": 1784029921.273401}
-{"key": "af0e9c53e294b8cf15b0075141deb761029e0fcb", "title": "truist securities initiates coverage on first solar with hold rating announces price target of 249", "tickers": ["FSLR"], "ts": 1784029923.3213344}
-{"key": "9bdcfa80c98b1e10bc7f24aa9e20a654a2a4dc4b", "title": "justin wolfers ex google ceo among nearly 200 experts issuing stark warning over ai tsunami we must act now", "tickers": ["GOOG", "GOOGL", "PLTR"], "ts": 1784029937.7120073}
-{"key": "5b76a873646b1996c42f7365ca890ff292fc7e0d", "title": "apple defies smartphone slump with record market share", "tickers": ["AAPL"], "ts": 1784029937.7143936}
-{"key": "8bf2b072b3f805ac23ada988b6f3c672f072cb22", "title": "fastenal q2 eps 0 33 inline sales 2 386b beat 2 338b estimate", "tickers": ["FAST"], "ts": 1784029937.7150152}
-{"key": "539c2c139969306c6ebe6bd51ef20ae30cede282", "title": "this halliburton analyst turns bullish here are top 5 upgrades for tuesday", "tickers": ["HAL", "TKO"], "ts": 1784029952.0758984}
-{"key": "b51612661afda7348d33f9cdc95560af3b681ffe", "title": "barclays maintains equal weight on essex property trust raises price target to 296", "tickers": ["ESS"], "ts": 1784029954.7422624}
-{"key": "37d0eb72566e610bac2ee7c740bb2baeed33ac00", "title": "barclays maintains overweight on invitation homes raises price target to 36", "tickers": ["INVH"], "ts": 1784029956.5919564}
-{"key": "2ad7d4842be20248bdd8e8bf15a55a21f6389af1", "title": "barclays maintains equal weight on mid america apartment raises price target to 147", "tickers": ["MAA"], "ts": 1784029958.5185444}
-{"key": "0e5c98fc4d313c7d259bc118669f800bac94be99", "title": "barclays maintains overweight on udr raises price target to 46", "tickers": ["UDR"], "ts": 1784029960.5275474}
-{"key": "4db49d37e3a578df3e37d43c515d7ebe0b68471a", "title": "trump s big beautiful bill cost nearly 83 billion in clean energy manufacturing and ev project cancellations and delays report", "tickers": ["GM"], "ts": 1784029960.5287976}
-{"key": "2d8b911a8a155d27f64cfdb6b74fb01a15f1b1df", "title": "barclays maintains equal weight on atmos energy lowers price target to 183", "tickers": ["ATO"], "ts": 1784029960.529398}
-{"key": "d3af0045d0b2df122c0d0aab13e385a64bc4a51d", "title": "rocket lab stock climbs nearly 3 in pre market trading after critical neutron engine test", "tickers": ["AMZN"], "ts": 1784029960.5320368}
-{"key": "deafd29f2f048d39c2f06bf9ef1918e4fbd82639", "title": "barclays maintains overweight on incyte raises price target to 134", "tickers": ["INCY"], "ts": 1784029960.5328734}
-{"key": "f8aaa7fbc2ce478d42b5daa1dd406e54c1323901", "title": "xanadu quantum technologies partners with lockheed martin to scale quantum training and workforce development", "tickers": ["LMT"], "ts": 1784029960.5337977}
-{"key": "f3455c2f5efccfa34dc89e17f3775444ae714f43", "title": "barclays maintains overweight on cms energy raises price target to 81", "tickers": ["CMS"], "ts": 1784029960.533988}
-{"key": "d287812a894ff72f1da98d3f7dacca8510e50272", "title": "keybanc downgrades apple to underweight announces 250 price target", "tickers": ["AAPL"], "ts": 1784029960.536752}
-{"key": "7917aa77c33bc8becd3eb03efb300c1d39d8d41e", "title": "ibm sees q2 adj eps 2 93 vs 3 02 est sees sales 17 200b vs 17 864b est", "tickers": ["IBM"], "ts": 1784029960.5371382}
-{"key": "b61fc14adcea98a2d41a5021629a763bc12e0343", "title": "ibm reported prelim q2 sales of 17 2b vs 17 86b est with adjusted eps of 2 93 vs 3 022 est ceo says q2 results are disappointing in a letter to investors", "tickers": ["IBM"], "ts": 1784029960.5381355}
-{"key": "64e21fae380e59db245ef0a56402a79535b35703", "title": "barclays maintains overweight on edison international raises price target to 78", "tickers": ["EIX"], "ts": 1784029960.538361}
-{"key": "5b43bc9ce170a629a64c02a760b7838aa4f09a2e", "title": "earnings scheduled for july 14 2026", "tickers": ["BAC", "C", "FAST", "GS", "JPM", "WFC"], "ts": 1784029960.5407557}
-{"key": "1d2f45ce1ddd45329716bbe6b768db2c1100451c", "title": "keybanc maintains overweight on intel raises price target to 155", "tickers": ["INTC"], "ts": 1784029960.5418444}
-{"key": "3e2d450fc97870faf1fa784fc37f4d4dbaf936fe", "title": "kkr to acquire a 51 stake in thomson reuters s global print business for 500m", "tickers": ["KKR"], "ts": 1784029960.543091}
-{"key": "baadc3edc3a2c3dff69ee4c9a932e83541f4db43", "title": "keybanc maintains overweight on marvell technology raises price target to 400", "tickers": ["MRVL"], "ts": 1784029960.543477}
-{"key": "472023dfdfab2a157392a0f2d2204c9647f3112f", "title": "barclays maintains equal weight on franklin resources raises price target to 34", "tickers": ["BEN"], "ts": 1784029960.5436938}
-{"key": "57722f8e7d05edc5fe0088c2c7f2e44c35bd9b2b", "title": "keybanc maintains overweight on micron technology raises price target to 1750", "tickers": ["MU"], "ts": 1784029960.5471938}
-{"key": "f9abdba24b4f1bf31e0987d83ff4a5d40defa0d1", "title": "ibm ceo in shareholder letter said saw clients shift quarterly capex spend toward servers storage and memory purchases in last few weeks of june", "tickers": ["IBM"], "ts": 1784029960.548428}
-{"key": "d14b688401c3f94cea0496eef0bbd4a59fdcc2ca", "title": "barclays maintains equal weight on invesco raises price target to 31", "tickers": ["IVZ"], "ts": 1784029960.5486743}
-{"key": "c9a480a3f60e0431125e8167d8e59924e4f08ffb", "title": "keybanc maintains overweight on advanced micro devices raises price target to 725", "tickers": ["AMD"], "ts": 1784029960.5504966}
-{"key": "ab62a3bf334ab982175fa423ff302e20ca48f855", "title": "barclays maintains underweight on t rowe price group raises price target to 108", "tickers": ["TROW"], "ts": 1784029960.5509267}
-{"key": "22fcffe662ba617e0b5abb507d332c09aa390d17", "title": "keybanc maintains overweight on nvidia raises price target to 330", "tickers": ["NVDA"], "ts": 1784029960.555018}
-{"key": "d4e996735d6231c59b7a49ac02720cb78a6d7b4d", "title": "bmo capital maintains market perform on c h robinson worldwide raises price target to 190", "tickers": ["CHRW"], "ts": 1784029960.5552506}
-{"key": "f8bc13d4d86fd312807f3b5e46a1e561a6e3f16a", "title": "circle president hails company s historic milestone so why is crcl going down", "tickers": ["MA", "V"], "ts": 1784029960.5558233}
-{"key": "31f78163f783b7834c27d144e26d18545e85cceb", "title": "goldman sachs gr q2 eps 20 98 beats 14 40 estimate sales 20 338b beat 16 125b estimate", "tickers": ["GS"], "ts": 1784029960.559081}
-{"key": "39d1c6f8db0fb267deebec123f8346991367307f", "title": "barclays maintains equal weight on netflix lowers price target to 85", "tickers": ["NFLX"], "ts": 1784029960.5603359}
-{"key": "e7d20d214cf41a1681867f42642e0a1593486f3e", "title": "wall street s most accurate analysts give their take on 3 health care stocks delivering high dividend yields", "tickers": ["MDT", "VTRS"], "ts": 1784029960.5608573}
-{"key": "84b0883195f4de43ec31ef60edf6499eff5d5736", "title": "goldman sachs raises quarterly dividend from 4 50 to 5 00 shr", "tickers": ["GS"], "ts": 1784029960.563306}
-{"key": "9e9979fefcc358ad4638876e998f2ffd9e8a8f49", "title": "barclays maintains overweight on walt disney lowers price target to 110", "tickers": ["DIS"], "ts": 1784029960.5638525}
-{"key": "0e602d6a3568af12855dc97c70c88b6fefc47309", "title": "wells fargo maintains underweight on tesla raises price target to 130", "tickers": ["TSLA"], "ts": 1784029960.567227}
-{"key": "39d4148d5ef4bef33b06e5bbc863715d0faa447a", "title": "what s going on with sk hynix stock tuesday", "tickers": ["MU"], "ts": 1784029960.569686}
-{"key": "19b0514ba08edca0aef847ad4d003924adc01535", "title": "ranger energy services inks contract with hess to deploy three additional echo hybrid workover rigs in lower 48 u s", "tickers": ["CVX"], "ts": 1784029960.570601}
-{"key": "b97069f5f07e5f53afcf68a0b32f8e3bc9aa9827", "title": "keybanc downgrades skyworks solutions to sector weight", "tickers": ["SWKS"], "ts": 1784029960.5708091}
-{"key": "a220ff2e55ee434ab9eb093c1c7a82946c386b46", "title": "hca healthcare reports prelim q2 sales of 20 230b up from 18 605b yoy lowers fy2026 gaap eps from 29 10 31 50 to 28 70 30 50", "tickers": ["HCA"], "ts": 1784029960.5712633}
-{"key": "6160e884c60ec5ebf644dadfc1e0adf8bcf6a9ab", "title": "wells fargo maintains equal weight on las vegas sands lowers price target to 53", "tickers": ["LVS"], "ts": 1784029960.571543}
-{"key": "a2a74ef926a71eddbff44f822e59b91172b2bc2a", "title": "barclays maintains overweight on ppl raises price target to 41", "tickers": ["PPL"], "ts": 1784029960.5717602}
-{"key": "a230d7fc703d6334426bd0626d8b5b1e12caee4c", "title": "wells fargo maintains overweight on wynn resorts lowers price target to 141", "tickers": ["WYNN"], "ts": 1784029960.5719724}
-{"key": "c07cc9e436b5f0a21fd43cd0494863a360da66dd", "title": "bank of america cfo alastair borthwick speaking to press says asset quality remains healthy", "tickers": ["BAC"], "ts": 1784029960.5744061}
-{"key": "fa8685d893e3af60cf21f43cc44e4b0d53eaae81", "title": "why is umc stock trading higher today", "tickers": ["AVGO", "INTC", "TXN"], "ts": 1784029960.5757859}
-{"key": "a83ba6f239cc1bd0043f87146a7f88e589cac5f1", "title": "wells fargo maintains overweight on trimble lowers price target to 61", "tickers": ["TRMB"], "ts": 1784029960.576142}
-{"key": "35e468b276183ce2de3effe61548a68fee73eaab", "title": "this arrowhead pharmaceuticals analyst begins coverage on a bullish note here are top 5 initiations for tuesday", "tickers": ["FSLR"], "ts": 1784029960.5766723}
-{"key": "8eed42b7b1ac26235525ea293d48bb5943d42c79", "title": "wells fargo maintains overweight on masco raises price target to 87", "tickers": ["MAS"], "ts": 1784029960.5770514}
-{"key": "ead65a701638736319a33734737fe0cb97444697", "title": "barclays maintains equal weight on tesla raises price target to 370", "tickers": ["TSLA"], "ts": 1784029960.5804486}
-{"key": "bf6f49a96e0a8aeb300fa1c8597d68a3012a65bb", "title": "keybanc maintains overweight on analog devices raises price target to 525", "tickers": ["ADI"], "ts": 1784029960.5807846}
-{"key": "59630e1b4432cd2478fef9a8961142fab3583fcd", "title": "ibm spooks investors with sub optimal outlook", "tickers": ["IBM"], "ts": 1784029960.581547}
 {"key": "d6df2fdba41290db6ace1ec80b56ca09904a59a0", "title": "slb partners with liberty energy to deliver modular infrastructure and integrated power generation solutions for new data center projects globally", "tickers": ["SLB"], "ts": 1784034336.2539985}
 {"key": "e3a131e6e5650372430c76ce8da66478a5662bbc", "title": "bank of america cfo borthwick speaking to media says we remain encouraged by the near term outlook consumers remain resilient", "tickers": ["BAC"], "ts": 1784034336.2574344}
 {"key": "e5a567df7dcc31872949d4ed53869226f0e6e4b3", "title": "keybanc maintains overweight on unitedhealth group raises price target to 475", "tickers": ["UNH"], "ts": 1784034336.258086}
@@ -706,3 +638,78 @@
 {"key": "536005dd283fd2964aa203f87cd82befde886b3a", "title": "moderna doses first us participant in its phase 1 study of mrna 4200 tumor targeted cancer antigen therapy candidate for advanced or metastatic solid tumors", "tickers": ["MRNA"], "ts": 1784200131.310478}
 {"key": "e2fb9a774288cb10230b29a67efe424c16fdaa8f", "title": "xpeng s new suv launch reveals bigger tesla challenge with level 4 autonomy and in house ai foundation model planned by 2028 report", "tickers": ["TSLA"], "ts": 1784200131.3150752}
 {"key": "41429f85bc56e0c0ee173ae364527ada4782aa16", "title": "u s bancorp q2 provision for credit losses rises to 538m up from 501m yoy on loan growth but down from 576m in q1 on improving credit quality", "tickers": ["USB"], "ts": 1784200131.3161457}
+{"key": "0fcf16af005b0952660eaa1a4c2c6ba276fa906e", "title": "wedbush assumes meta platforms at neutral announces price target of 671", "tickers": ["META"], "ts": 1784206105.8578463}
+{"key": "541d00fae306834f41591fe379aa523a868f507e", "title": "barclays maintains equal weight on baker hughes lowers price target to 72", "tickers": ["BKR"], "ts": 1784206108.3716965}
+{"key": "a9343cd2aebe3166f671acb5997f4220c5bfd738", "title": "wedbush assumes uber technologies at outperform announces price target of 91", "tickers": ["UBER"], "ts": 1784206110.5387216}
+{"key": "7f06bef3157d1518cec7de5fc3b8baf22b235a8d", "title": "baird maintains neutral on m t bank raises price target to 250", "tickers": ["MTB"], "ts": 1784206124.9482286}
+{"key": "d3d4171220a30d66174ee9c09297cd616d0ace97", "title": "wedbush assumes doordash at neutral announces price target of 205", "tickers": ["DASH"], "ts": 1784206127.3382864}
+{"key": "365361fcef0c3d4abb82b5e59d81025ff0094f24", "title": "earnings scheduled for july 16 2026", "tickers": ["ABT", "CFG", "GE", "ISRG", "NFLX", "PLD", "STT", "UNH", "USB"], "ts": 1784206141.7451692}
+{"key": "2ac5802b449d26d665a845841da3e7cf03040c02", "title": "baird maintains outperform on pnc financial services gr raises price target to 280", "tickers": ["PNC"], "ts": 1784206149.454019}
+{"key": "a4234ecc5683aff0ba8c16185e1c8676965f27fa", "title": "baird maintains neutral on elevance health raises price target to 393", "tickers": ["ELV"], "ts": 1784206163.8551307}
+{"key": "a922c4690a4472f3cdada750b3f3a17e3518090a", "title": "this etsy analyst is no longer bullish here are top 5 downgrades for thursday", "tickers": ["PNR"], "ts": 1784206178.2992873}
+{"key": "9e5c85679164e6f7554897ed82bb344850b4bd65", "title": "wedbush assumes booking holdings at outperform announces price target of 211", "tickers": ["BKNG"], "ts": 1784206192.6967602}
+{"key": "046b432e1ce00953bf0ab421d3a2006b9edaed5e", "title": "barclays maintains overweight on slb lowers price target to 64", "tickers": ["SLB"], "ts": 1784206207.109856}
+{"key": "28668cd5378568b1ec2f9b86bd8ed7deea44d187", "title": "baird maintains outperform on jb hunt transport servs raises price target to 320", "tickers": ["JBHT"], "ts": 1784206221.6539478}
+{"key": "aeee702e06edef7cb9b6e3c975ecc8360f8a8454", "title": "wedbush assumes airbnb at neutral announces price target of 152", "tickers": ["ABNB"], "ts": 1784206236.1638722}
+{"key": "c98d350b9f030f6de395d54fc26d0aa3d79c6add", "title": "market moving news for july 16th", "tickers": ["JBHT", "UAL"], "ts": 1784206250.6892035}
+{"key": "23bea3aa4599cd0b28ac05fe8d4909204630e06d", "title": "wedbush assumes expedia group at outperform announces price target of 334", "tickers": ["EXPE"], "ts": 1784206250.689759}
+{"key": "707725e5fe65801cd5ea003c01523f57e8594f3c", "title": "wedbush assumes verisign at outperform announces price target of 318", "tickers": ["VRSN"], "ts": 1784206265.0998983}
+{"key": "e4854ea2473a003a810af87e7da1ce0356dd0a31", "title": "abbott laboratories q2 adj eps 1 31 beats 1 28 estimate sales 12 593b beat 12 497b estimate", "tickers": ["ABT"], "ts": 1784206279.4930408}
+{"key": "2652986a688ac7ed9c842ede2032224cd38ffb22", "title": "abbott laboratories raises fy2026 adj eps guidance from 5 38 5 58 to 5 45 5 60 vs 5 49 est", "tickers": ["ABT"], "ts": 1784206279.4943862}
+{"key": "b642c6f973d1ca5d2f16bb73214b3cfbe7a7d511", "title": "abbott laboratories sees q3 adj eps 1 38 1 46 vs 1 42 est", "tickers": ["ABT"], "ts": 1784206279.4955986}
+{"key": "1955b6da9d3a25a7946c325d31c39fff72825869", "title": "abbott projects full year 2026 comparable sales growth of 6 5 to 7 5", "tickers": ["ABT"], "ts": 1784206279.497146}
+{"key": "904892a505a00944b5491c94aa3b0401fc1635db", "title": "wedbush assumes ebay at outperform announces price target of 135", "tickers": ["EBAY"], "ts": 1784206279.4977708}
+{"key": "6cacfbb25bbb1963bddafe10cd309ec4da83763b", "title": "state street q2 eps 3 65 beats 3 29 estimate sales 4 048b beat 3 876b estimate", "tickers": ["STT"], "ts": 1784206279.498194}
+{"key": "fab1c3c455920a73b7d537a4f1517b771f8614ab", "title": "state street q2 aum 23 yoy to 6 28t", "tickers": ["STT"], "ts": 1784206279.4986277}
+{"key": "f378f0088ad9ce9c4933f61ca6bd546170552618", "title": "b of a securities downgrades wr berkley to underperform lowers price target to 68", "tickers": ["WRB"], "ts": 1784206279.4988694}
+{"key": "6f3877a9323d9039ce8b58a24444bdbcee1a9871", "title": "barclays maintains overweight on elevance health lowers price target to 457", "tickers": ["ELV"], "ts": 1784206279.5002568}
+{"key": "ec3ee37440cacd1c8d036c585acc0581c2303441", "title": "b of a securities upgrades cintas to buy raises price target to 230", "tickers": ["CTAS"], "ts": 1784206279.5012283}
+{"key": "898c7fdaf243a87a14dee81ee509f579b74cbb6c", "title": "arbutus biopharma announces filing of three international lawsuits seeking to enforce patents protecting lnp technology against pfizer biontech and certain of their affiliates", "tickers": ["PFE"], "ts": 1784206279.501504}
+{"key": "995d7cd19e268e496fc27ab0500f1beb2ad7280f", "title": "barclays maintains equal weight on fastenal lowers price target to 46", "tickers": ["FAST"], "ts": 1784206279.502016}
+{"key": "1c4330eb6f35c37577eeab25d7e66c8ea05b1fb6", "title": "ge aerospace ceo says while the environment remains dynamic aftermarket demand has been resilient", "tickers": ["GE"], "ts": 1784206279.504423}
+{"key": "1bc2684248ff08d25d79661cf1b0b39f09d32235", "title": "ge aerospace ceo says it has several months of genx engines on site at boeing s charleston facility sharp further rise in fuel prices could cause air travel demand destruction", "tickers": ["GE"], "ts": 1784206279.5093327}
+{"key": "9e535d925dbc88b9a42d282bfb76a1b873538e89", "title": "b of a securities maintains buy on blackrock raises price target to 1320", "tickers": ["BLK"], "ts": 1784206279.512839}
+{"key": "cb568f280602b2c99f807f6b9e768b23c2e24918", "title": "this rambus analyst begins coverage on a bullish note here are top 5 initiations for thursday", "tickers": ["VRT"], "ts": 1784206279.5138118}
+{"key": "380a58c0d875b80f35bd013e837e028ab66a3383", "title": "wall street s most accurate analysts give their take on 3 tech stocks delivering high dividend yields", "tickers": ["ACN", "HPQ", "NOW", "SWKS"], "ts": 1784206279.5158293}
+{"key": "59cb399069aa130653c6911f876399a514d66019", "title": "barclays maintains equal weight on hca healthcare lowers price target to 402", "tickers": ["HCA"], "ts": 1784206279.5169933}
+{"key": "4c42fcba50fdce74aae18946ffb13a990506c4bd", "title": "barclays maintains equal weight on jb hunt transport servs raises price target to 300", "tickers": ["JBHT"], "ts": 1784206279.5193756}
+{"key": "1c0bc41846bb86f7ed0ec4be5604b926a205fe84", "title": "elon musk says x will go fully open source with no exceptions as grok faces heat over privacy breach and jailbreak vulnerability", "tickers": ["GOOG", "GOOGL"], "ts": 1784206279.530612}
+{"key": "adf864480b5eb75f59d8972946615ff4d2f13c72", "title": "allstate reports june catastrophe losses of 563m q2 catastrophe losses of 1 72b", "tickers": ["ALL"], "ts": 1784206279.5321896}
+{"key": "6c421d56cd6adfb53de2a1bab2d1d10d4a1b7d1a", "title": "keefe bruyette woods maintains market perform on progressive lowers price target to 226", "tickers": ["PGR"], "ts": 1784206279.5337422}
+{"key": "9c8249a5a920ef3c9ef917358bb5ef61276621c7", "title": "barclays maintains equal weight on m t bank raises price target to 267", "tickers": ["MTB"], "ts": 1784206279.5345504}
+{"key": "30f599febe25f4fa62d37a96b02781e2325d0602", "title": "keefe bruyette woods maintains outperform on morgan stanley raises price target to 250", "tickers": ["MS"], "ts": 1784206279.5379653}
+{"key": "7e4b987a53df66579bb10e147f0c65a479034d92", "title": "keefe bruyette woods maintains market perform on m t bank raises price target to 250", "tickers": ["MTB"], "ts": 1784206279.538943}
+{"key": "8e3034faefe98f491dbd6bba5daea6cd0b2ba29d", "title": "keefe bruyette woods maintains outperform on blackrock raises price target to 1300", "tickers": ["BLK"], "ts": 1784206279.5427566}
+{"key": "64f4b62b25e8af8cc5a31b9875e8467a0ab03cc1", "title": "blackrock to rally around 25 here are 10 top analyst forecasts for thursday", "tickers": ["BLK", "JBHT", "MTB", "PYPL", "SLB"], "ts": 1784206279.5528905}
+{"key": "9a84a167df340b2eb11e46fa6388c6e0419770fb", "title": "keefe bruyette woods maintains outperform on bank of new york mellon raises price target to 177", "tickers": ["BNY"], "ts": 1784206279.5540214}
+{"key": "061d398cfb3a82799dea92d9e485f36992115d58", "title": "prologis q2 ffo 1 63 beats 1 54 estimate sales 2 183b miss 2 226b estimate", "tickers": ["PLD"], "ts": 1784206279.5546563}
+{"key": "85cc6da45b6b82c58c4bba0f4097433d0fe8992c", "title": "prologis raises fy2026 ffo guidance from 6 07 6 23 to 6 22 6 30 vs 6 18 est", "tickers": ["PLD"], "ts": 1784206279.5554128}
+{"key": "ba60e1797c186928c3f9372a764f74addb029b8d", "title": "guggenheim maintains buy on elevance health raises price target to 455", "tickers": ["ELV"], "ts": 1784206279.5568159}
+{"key": "9973c3480a47e46f33d3830c3455bdd697bfba85", "title": "m t bank analysts increase their forecasts after strong q2 results", "tickers": ["MTB"], "ts": 1784206279.5582614}
+{"key": "e74bd7082ac0984fbce90a4d310e48684708145d", "title": "frequency electronics posts weak q4 results joins ast spacemobile and other big stocks moving lower in thursday s pre market session", "tickers": ["COHR", "SNDK", "WDC"], "ts": 1784206279.5626826}
+{"key": "5e1fe81987f41c60915f608b264ac3a8a6c4ae6d", "title": "jim cramer blames sk hynix chaos for tsmc fall despite insanely good q2 earnings a casino of emotions", "tickers": ["AAPL", "NVDA"], "ts": 1784206279.5795555}
+{"key": "79a77a5cdafa71289358d2c31fe2b99d36074592", "title": "halliburton awarded lump sum turnkey contracts by aramco in multiple onshore fields in saudi arabia", "tickers": ["HAL"], "ts": 1784206279.580927}
+{"key": "427ca2cef5df05777263d670f5cf01dfc8555dff", "title": "why is sandisk stock falling on thursday", "tickers": ["SNDK"], "ts": 1784206279.582556}
+{"key": "476da02dc8ed71c9d6c3add9568a56417bb8ffc8", "title": "boeing lufthansa rolls royce collaborating over technologies to enhance fuel efficiency reduce noise", "tickers": ["BA"], "ts": 1784206279.5847466}
+{"key": "69c56926ba895de9c1217d5e1f517b87a7d8323a", "title": "truist securities downgrades lululemon athletica to sell lowers price target to 94", "tickers": ["LULU"], "ts": 1784206279.5850189}
+{"key": "a00e897fc9b49c47e9a2a020d97bd2e100763e44", "title": "standardaero inducts first cfm international leap 1b engine from sunexpress", "tickers": ["GE"], "ts": 1784206279.5876808}
+{"key": "56e7587202377f8763b15236d146fa223ebbe277", "title": "these analysts boost their forecasts on jb hunt following better than expected q2 earnings", "tickers": ["JBHT"], "ts": 1784206279.5906186}
+{"key": "5c4c144df2792020ab49123a9d46b57f2ce36bd0", "title": "johnson johnson unit depuy synthes acquires expanding innovations a maker of expandable implant technology for spinal surgery financial terms not disclosed", "tickers": ["JNJ"], "ts": 1784206279.5951703}
+{"key": "1ca57c73c48bb4eff396d253e7ecd656ab465625", "title": "these analysts revise their forecasts on elevance health following q2 earnings", "tickers": ["ELV"], "ts": 1784206279.5968664}
+{"key": "e760e4b022c94b30b47abc8c635e72e38654e41b", "title": "goldman sachs ceo david solomon says he s a huge optimist on the us economy over the next 7 years and ai is the biggest reason why", "tickers": ["GS", "JPM"], "ts": 1784206279.6133707}
+{"key": "f21d11d9d381bf62d7d4e211578fa02e6d04cf1a", "title": "google s parent alphabet in the spotlight a look at the earnings technical picture", "tickers": ["GOOG"], "ts": 1784206279.61929}
+{"key": "d357aabd786acce8ddf2dafa3008ad856fd32512", "title": "boeing expects to win certification for long delayed jet models", "tickers": ["BA"], "ts": 1784206279.621259}
+{"key": "e66198807766e5366c2f7b66c5c91246117bfd73", "title": "uber ceo dara khosrowshahi says expect transaction to be non gaap earnings per share accretive upon close says expect high single digit percentage accretion by year three says think that margin increase is going to continue going forward says delivery hero is operating with a net take rate that s higher than uber s", "tickers": ["UBER"], "ts": 1784206279.626316}
+{"key": "8193b855076498c01b641faffffcac721994b0c1", "title": "european commission provides guidance to google for ai interoperability on android sharing of google search data under the digital markets act", "tickers": ["GOOG", "GOOGL"], "ts": 1784206279.6389475}
+{"key": "814f4fdf9ce288a7e396154fa0f9a78f138744cd", "title": "us takes aim at autonomous car mishaps in safety rulemaking push", "tickers": ["AMZN", "GOOG", "GOOGL", "TSLA"], "ts": 1784206279.6490083}
+{"key": "2c4ad1035aab2a3968eb07802d28555b8ec281db", "title": "keybanc maintains overweight on amazon com raises price target to 335", "tickers": ["AMZN"], "ts": 1784206279.6532502}
+{"key": "72d538395429b62d489843b409060951a8fc9171", "title": "baird maintains outperform on cintas raises price target to 214", "tickers": ["CTAS"], "ts": 1784206279.6542945}
+{"key": "d0a224af4653d82e21cc495ff606bc89fb54d3e7", "title": "keybanc maintains overweight on datadog raises price target to 320", "tickers": ["DDOG"], "ts": 1784206279.654667}
+{"key": "12bca5167123f5447de9f8b673e0173808614d91", "title": "barclays maintains overweight on morgan stanley raises price target to 262", "tickers": ["MS"], "ts": 1784206279.6579247}
+{"key": "6441860ff39198b5bec733dfc682a5f361be0d6a", "title": "steel dynamics earnings are imminent these most accurate analysts revise forecasts ahead of earnings call", "tickers": ["STLD"], "ts": 1784206279.6584783}
+{"key": "0976bdca23583ec47bf420f63ac9e871571a463e", "title": "what s going on with ibm stock on thursday", "tickers": ["IBM"], "ts": 1784206279.6612191}
+{"key": "a3b3d887c7321d971ee13c469dd52384763c3466", "title": "bmo capital maintains market perform on progressive lowers price target to 205", "tickers": ["PGR"], "ts": 1784206279.6629038}
+{"key": "5b939957384d73a4af82eebd38f4a4dbb012b3a0", "title": "netflix stock in focus a look at the earnings analyst activity technical picture", "tickers": ["NFLX"], "ts": 1784206279.6645448}
+{"key": "bb278e97c698e7d0bbafca7f09662f0ccf32569c", "title": "why is amd stock falling thursday", "tickers": ["AMD"], "ts": 1784206279.666109}
+{"key": "bff4938ebbc78bb3d0c0dcb14a55d1b79b60efd1", "title": "crowdstrike announces expansion of strategic partnership with schwarz digital to offer ai falcon platform to european enterprises on schwarz s stackit cloud and acquire xm cyber intellectual property", "tickers": ["CRWD"], "ts": 1784206279.6698902}
+{"key": "329de3b5f3ae23fbec70b5ba14c81f7dd45963da", "title": "ge aerospace q2 2026 earnings call transcript", "tickers": ["GE"], "ts": 1784206279.6717083}
