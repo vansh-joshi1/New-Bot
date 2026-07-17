@@ -1,53 +1,3 @@
-{"key": "2cf7ce4e2774676316190eeebbf9761fe2023b13", "title": "piper sandler downgrades aon to neutral raises price target to 377", "tickers": ["AON"], "ts": 1784116356.2417061}
-{"key": "640c5f1e0ffcc2eb71ed3c87608c382de7416fb0", "title": "piper sandler downgrades the hartford insurance gr to neutral lowers price target to 146", "tickers": ["HIG"], "ts": 1784116358.5260987}
-{"key": "13d0412d625726f67a9174665ef7a5e09123dab5", "title": "is the rise of ai fatigue beginning to drive s p 500 lower", "tickers": ["AAPL", "GOOGL"], "ts": 1784116360.3055038}
-{"key": "0c129d0f2d6be1292ab9da854fae4d396b07884a", "title": "johnson johnson q2 adj eps 2 90 beats 2 85 estimate sales 25 310b beat 25 047b estimate", "tickers": ["JNJ"], "ts": 1784116360.3078027}
-{"key": "99355912777d6b4188515e3e0caf2eef396a5f41", "title": "chamath palihapitiya says he is staying in california despite proposed billionaire tax it s given me everything so i will not leave", "tickers": ["NVDA"], "ts": 1784116362.25518}
-{"key": "553b7af010fc9f1316f13d94cff068b875a56b55", "title": "johnson johnson raises fy2026 adj eps guidance from 11 45 11 65 to 11 60 11 75 vs 11 59 est raises fy2026 sales guidance from 100 300b 101 300b to 100 800b 101 400b vs 101 022b est", "tickers": ["JNJ"], "ts": 1784116362.2591689}
-{"key": "4f0d515289d6cdd76a49b19c79aba1b43e4dd36f", "title": "genmab reports q2 darzalex net sales of 4 207b up 17 6 yoy", "tickers": ["JNJ"], "ts": 1784116364.8573015}
-{"key": "e9601120e0db51c9f199729292b89b88a742b4c1", "title": "united airlines touts more legroom replaces select middle seats with shared tables on new airbus a321xlr", "tickers": ["BA", "UAL"], "ts": 1784116364.858673}
-{"key": "645b55f63d5d41be99bf8a969fe9b2bf537370bf", "title": "coreweave weighs derivatives to protect against falling chip prices report", "tickers": ["MU", "NVDA", "SNDK"], "ts": 1784116364.8679552}
-{"key": "6b6c839ba380d66cf549e930b40b989b291ae7c2", "title": "trump s golden dome push gets 1 75 billion boost space force orders 36 missile tracking satellites from sierra space and l3harris", "tickers": ["LHX"], "ts": 1784116364.8701792}
-{"key": "c0bf03dcae3a1865accba301cd647ce2e86f4c64", "title": "bank of new york mellon q2 adj eps 2 46 beats 2 22 estimate sales 5 698b beat 5 397b estimate", "tickers": ["BNY"], "ts": 1784116364.8712375}
-{"key": "70883296714f12060f3aa013ab98a8f9df8f77d4", "title": "pnc finl servs gr q2 adj eps 4 85 beats 4 43 estimate sales 6 875b beat 6 503b estimate", "tickers": ["PNC"], "ts": 1784116366.9891489}
-{"key": "1550a99275d150693f88f199fa93e1c51869258b", "title": "pnc financial services gr raises fy2026 sales guidance from 25 641b to 26 102b vs 25 921b est", "tickers": ["PNC"], "ts": 1784116369.050918}
-{"key": "fb75be37b3b445bc5f2e0285441c2b6a347d80c7", "title": "elon musk faces possible election bribery charges in wisconsin over 1 million voter giveaway", "tickers": ["TSLA"], "ts": 1784116383.413458}
-{"key": "3cdc25452ad31f9bc03208b70a1917212119232d", "title": "pnc financial services raises quarterly cash dividend from 1 70 to 2 00 per share", "tickers": ["PNC"], "ts": 1784116383.4148123}
-{"key": "d72120134ca9161c6863967a57d78b472e80218a", "title": "ai videos are flooding tiktok shop", "tickers": ["CRM", "ORCL"], "ts": 1784116383.4164836}
-{"key": "c1cdb898567d134065dcd6b6e156b09fac6fa5e7", "title": "bank of new york mellon raises quarterly dividend from 0 53 to 0 63 per share payable august 7", "tickers": ["BNY"], "ts": 1784116383.4174435}
-{"key": "7bb2d145ad112f41ff8f3127a231f33af51a26cf", "title": "merck s phase 3 keynote c93 trial evaluating keytruda met primary endpoint of progression free survival for treatment of patients with mismatch repair deficient advanced or recurrent endometrial cancer", "tickers": ["MRK"], "ts": 1784116383.4194593}
-{"key": "e723c72ca68c09b65023e6c7cf2b88f7aea6e3f0", "title": "brussels prepares fresh google fines as big tech enforcement increases financial times", "tickers": ["GOOG"], "ts": 1784116383.4234893}
-{"key": "f6bde34df0aca7fdb50571d1fc660f88f4007a3e", "title": "piper sandler maintains neutral on chubb raises price target to 374", "tickers": ["CB"], "ts": 1784116383.4237254}
-{"key": "0ee8d72f94e011b37d69464e20e65b74312beecf", "title": "piper sandler maintains neutral on cincinnati financial raises price target to 197", "tickers": ["CINF"], "ts": 1784116387.8598323}
-{"key": "3d72b9a4cfbe4ad195e8603fe9329fb0eda34157", "title": "truist financial gears up for q2 print here are the recent forecast changes from wall street s most accurate analysts", "tickers": ["TFC"], "ts": 1784116389.594868}
-{"key": "946ae671a61c5ceaa076532dc08c08b79f904258", "title": "ubs downgrades allstate to neutral raises price target to 261", "tickers": ["ALL"], "ts": 1784116403.9744248}
-{"key": "87517779f9aabeb453e96cfff6224f3af476aebf", "title": "pentair stock plunges as pool destocking forces deep 2026 guidance cut", "tickers": ["PNR"], "ts": 1784116418.5113297}
-{"key": "008fb3f3872da17e3cd932b4812a89cd422092a7", "title": "btig maintains buy on crowdstrike holdings raises price target to 237", "tickers": ["CRWD"], "ts": 1784116421.6845982}
-{"key": "261a47fdb233bf3fe12e44cf0faa1cd787efd4d7", "title": "wells fargo maintains equal weight on amcor raises price target to 43", "tickers": ["AMCR"], "ts": 1784116423.7589319}
-{"key": "7c043ff815b765ea3b950e050617208990e92eed", "title": "piper sandler maintains overweight on globe life raises price target to 200", "tickers": ["GL"], "ts": 1784116427.648434}
-{"key": "202451dfd511a218fb599b8a5c491fc58ab7aed2", "title": "bank of new york mellon sees fy2026 sales 22 031b 22 231b vs 21 655b est", "tickers": ["BNY"], "ts": 1784116442.0350907}
-{"key": "210abf337bd5a802e7e424b5667042dc2ecf5427", "title": "earnings scheduled for july 15 2026", "tickers": ["BLK", "BNY", "CTAS", "ELV", "JBHT", "JNJ", "MS", "MTB", "PGR", "PNC", "UAL"], "ts": 1784116442.0395596}
-{"key": "5d7d3150f9f10d05cbfed1faa55bebac7b349ea6", "title": "u s official says nvidia h200 shipments to china are trivial", "tickers": ["AMD", "NVDA"], "ts": 1784116442.0467992}
-{"key": "8ec776c774433ca279334df41f7326c5c6359293", "title": "market moving news for july 15th", "tickers": ["PYPL"], "ts": 1784116442.0475495}
-{"key": "1af00af1ddda8cad752da91754443b7b7dfddc9e", "title": "wells fargo maintains overweight on goldman sachs group raises price target to 1325", "tickers": ["GS"], "ts": 1784116442.052364}
-{"key": "07d15765e2a0d39f4dfa5897fca5802c28e81448", "title": "what s going on with amd stock wednesday", "tickers": ["AMD", "NVDA"], "ts": 1784116442.0573788}
-{"key": "6ba4618a91877b9492a0f5607ef6dbf7fc15cfd5", "title": "berkshire hathaway chairman buffett says he made mistake not investing in google company now more likely to be a winner based on its record berkshire owns 31b of alphabet shares still like berkshire s investment in apple", "tickers": ["AAPL", "GOOG"], "ts": 1784116442.0723753}
-{"key": "6abc781290fed548a8b9e089912647865d46042b", "title": "morgan stanley authorizes 20b common equity share repurchase program", "tickers": ["MS"], "ts": 1784116442.0748208}
-{"key": "7a07955e4ca2de0ca7af4cfd1a908f33aff52f48", "title": "morgan stanley q2 eps 3 46 beats 2 91 estimate sales 21 348b beat 19 637b estimate", "tickers": ["MS"], "ts": 1784116442.077628}
-{"key": "ef6c5107e9a7a0231644c51051f0835d535163c5", "title": "wells fargo maintains overweight on bank of america raises price target to 69", "tickers": ["BAC"], "ts": 1784116442.0808244}
-{"key": "c98cbfcddd0a39a804b1de49a403272f25a374cd", "title": "wells fargo maintains overweight on microsoft lowers price target to 625", "tickers": ["MSFT"], "ts": 1784116442.084415}
-{"key": "269f4e7a8c975e7efcce2f3c5548961173f41f00", "title": "wells fargo maintains equal weight on healthpeak properties raises price target to 22", "tickers": ["DOC"], "ts": 1784116442.084688}
-{"key": "d6cd37356f2109d71480591518fea7026235352d", "title": "this check point software analyst is no longer bullish here are top 5 downgrades for wednesday", "tickers": ["AIG", "ALL", "AON"], "ts": 1784116442.0862389}
-{"key": "5cf77adf2f4581cf18a6ce706db345e2c5eaa7c1", "title": "what s going on with ibm stock wednesday", "tickers": ["IBM"], "ts": 1784116442.0888443}
-{"key": "20d955532aae977f335544cc566be91ee8a3ee13", "title": "piper sandler maintains overweight on travelers companies raises price target to 389", "tickers": ["TRV"], "ts": 1784116442.0897322}
-{"key": "2a351d19409abfdf26a2957813c6005e2641fcd8", "title": "wells fargo maintains equal weight on realty income raises price target to 65", "tickers": ["O"], "ts": 1784116442.090019}
-{"key": "c1dd2e4534c238dba8e40a61198df9d7342aa004", "title": "piper sandler maintains overweight on willis towers watson raises price target to 317", "tickers": ["WTW"], "ts": 1784116442.0902798}
-{"key": "a987c0d7107a209bab5374d014d3d8fb8005fa18", "title": "wells fargo maintains equal weight on vici properties lowers price target to 27", "tickers": ["VICI"], "ts": 1784116442.0905414}
-{"key": "d5c1acf6269f1251e31b4c4ed8e158faa89e7af0", "title": "blackrock cfo martin small says continue to expect a mid single digit percentage increase in full year g a expense", "tickers": ["BLK"], "ts": 1784116442.0933192}
-{"key": "153e5be51fb4d830d0edbbf4a70544a9b666fedf", "title": "piper sandler maintains overweight on cboe global markets lowers price target to 320", "tickers": ["CBOE"], "ts": 1784116442.093617}
-{"key": "f5ed0819a5c38ea660b09880343fdd5ff1154f5b", "title": "piper sandler maintains overweight on cme group lowers price target to 295", "tickers": ["CME"], "ts": 1784116442.093912}
-{"key": "d5c8476abdc7fa1d79e995f06040af6c9b098784", "title": "piper sandler maintains neutral on coinbase global lowers price target to 155", "tickers": ["COIN"], "ts": 1784116442.095366}
-{"key": "03c1c0ec3473c3aa8b462c572c4eaa49886ec88a", "title": "wells fargo maintains overweight on tractor supply lowers price target to 35", "tickers": ["TSCO"], "ts": 1784116442.0962212}
 {"key": "e50369b4dae649705006ec62874e9bcc4a7d7684", "title": "unitedhealth stock in the spotlight ahead of q2 earnings thursday", "tickers": ["UNH"], "ts": 1784121557.8000178}
 {"key": "868399009fb6402a52cd7a93f59f7736a2a23e8c", "title": "barclays maintains underweight on american water works co raises price target to 130", "tickers": ["AWK"], "ts": 1784121559.0798197}
 {"key": "fa4b801201a329d00647f1c1ccb49e16e52619d3", "title": "citizens initiates coverage on union pacific with market outperform rating announces price target of 350", "tickers": ["UNP"], "ts": 1784121561.5761797}
@@ -788,3 +738,33 @@
 {"key": "e2d549220f82bb06141652e59ef68ac6c32d39de", "title": "jefferies initiates coverage on moodys with buy rating announces price target of 610", "tickers": ["MCO"], "ts": 1784285576.2028825}
 {"key": "9745d71f914c57f398c9105091c6a8567bdd0260", "title": "jefferies initiates coverage on msci with buy rating announces price target of 760", "tickers": ["MSCI"], "ts": 1784285590.5890613}
 {"key": "9fe3a5d6d71f13798580ed71cb90b9222f497b81", "title": "jefferies downgrades oneok to hold lowers price target to 95", "tickers": ["OKE"], "ts": 1784285604.947961}
+{"key": "797c6aa10e09dc2cba849c292fa69509a6d34c8d", "title": "what s going on with sandisk stock friday", "tickers": ["SNDK"], "ts": 1784289788.0774577}
+{"key": "caf8baa87ac40a1dcbbfd4ab433fe3376e456a16", "title": "jp morgan upgrades 3m to overweight raises price target to 180", "tickers": ["MMM"], "ts": 1784289788.078503}
+{"key": "263a8e059573da1db2ea2889559eb26368e3027f", "title": "baird maintains neutral on citizens financial group raises price target to 75", "tickers": ["CFG"], "ts": 1784289789.9700947}
+{"key": "a88f08a70dff960ba7db5fb56b1998b952150dac", "title": "baird maintains neutral on u s bancorp raises price target to 68", "tickers": ["USB"], "ts": 1784289792.0234873}
+{"key": "e27528efa79bf57a19e05cf58b530dfc4259e7c6", "title": "travelers companies q2 adj eps 10 04 beats 5 38 estimate sales 12 153b beat 11 346b estimate", "tickers": ["TRV"], "ts": 1784289794.6378686}
+{"key": "90f5dbb4f99a2773c8cd053b95143d8863701f50", "title": "baird maintains outperform on intuitive surgical lowers price target to 500", "tickers": ["ISRG"], "ts": 1784289796.9671774}
+{"key": "8f579874289a0e8dfb885d2c871887bce5047392", "title": "jp morgan upgrades emerson electric to overweight maintains price target to 157", "tickers": ["EMR"], "ts": 1784289799.1430044}
+{"key": "e19d13ae12b0c8618f11e77a818472e191b80070", "title": "conocophillips to acquire 42 stake in bp energy company of kirkuk financial terms not disclosed", "tickers": ["COP"], "ts": 1784289814.4951003}
+{"key": "c881da75ece7390ca3a69f7db34809cd7002abc1", "title": "earnings scheduled for july 17 2026", "tickers": ["FITB", "RF", "TFC", "TRV"], "ts": 1784289818.5319545}
+{"key": "ce3909f095a8edccedf03e2a3ba78429c4b5624d", "title": "b of a securities upgrades ppg indus to buy raises price target to 134", "tickers": ["PPG"], "ts": 1784289832.8805535}
+{"key": "c95492b34bf92473fa72d7483503460562210bf9", "title": "this moody s analyst begins coverage on a bullish note here are top 5 initiations for friday", "tickers": ["MCO"], "ts": 1784289834.888201}
+{"key": "91f176bbbd72e33f6ae39788c80b45db7173c84c", "title": "conocophillips agrees to terms with bp to acquire 42 interest in bp energy company of kirkuk terms undisclosed", "tickers": ["COP"], "ts": 1784289849.2503417}
+{"key": "8183696f902d64363fc6c426dcdc6ce81ab1bba6", "title": "market moving news for july 17th", "tickers": ["ISRG", "NFLX"], "ts": 1784289851.8693182}
+{"key": "20bb6d122be66e36aaa53ff5429d1dc48a3199b2", "title": "the cost of the ai race is oracle investing its way to junk status", "tickers": ["ORCL"], "ts": 1784289851.8704953}
+{"key": "b2371aadd7db66726bf8abc5d664354484a3cb98", "title": "wall street s most accurate analysts spotlight on 3 materials stocks delivering high dividend yields", "tickers": ["AMCR", "IP"], "ts": 1784289853.893615}
+{"key": "e5419f69b28660e31a9981346a870b43f1427a27", "title": "top wall street forecasters revamp wr berkley expectations ahead of q2 earnings", "tickers": ["WRB"], "ts": 1784289853.8942688}
+{"key": "7372a8a2452c0975d9cb49e1860a12d3f3c6aa25", "title": "qumulusai approved to join nvidia cloud partner within nvidia partner network", "tickers": ["NVDA"], "ts": 1784289857.4587302}
+{"key": "92e3f2c4d295b1d1bd7c864ffba375e3ae24d0ae", "title": "oppenheimer upgrades ecolab to outperform announces 320 price target", "tickers": ["ECL"], "ts": 1784289857.459008}
+{"key": "de8fe5bad8e72cccdf47714e1666d2f589c3c302", "title": "these analysts slash their forecasts on intuitive surgical following q2 earnings", "tickers": ["ISRG"], "ts": 1784289859.279193}
+{"key": "9ff083f0cfede03c00a12a277e0b6220e81d07b5", "title": "pivotal research maintains hold on netflix lowers price target to 70", "tickers": ["NFLX"], "ts": 1784289873.6779969}
+{"key": "f8679cb79c471ab8120df157c921fd2902c3015e", "title": "why is intuitive surgical stock sinking friday", "tickers": ["ABT", "HCA", "ISRG"], "ts": 1784289873.6816833}
+{"key": "84a1cafe5ac2cfb5c09bd51ae956194fc64d2add", "title": "raymond james upgrades echostar to strong buy announces 115 price target", "tickers": ["ECHO"], "ts": 1784289873.6822226}
+{"key": "ce6ce7615ba683961f1641b1b1f094105161dc25", "title": "raymond james maintains outperform on tractor supply lowers price target to 40", "tickers": ["TSCO"], "ts": 1784289873.6826038}
+{"key": "2eb88808528eae47db98879e0865d4fc1e6f1942", "title": "leerink partners maintains outperform on intuitive surgical lowers price target to 454", "tickers": ["ISRG"], "ts": 1784289873.6855829}
+{"key": "a99c564072c844553c130bb3939705650357d452", "title": "wells fargo upgrades sba communications to overweight lowers price target to 210", "tickers": ["SBAC"], "ts": 1784289873.6859627}
+{"key": "15495801795eff970feda06be92a140756723059", "title": "bernstein maintains outperform on netflix lowers price target to 95", "tickers": ["NFLX"], "ts": 1784289873.6926703}
+{"key": "48debcf2c6d2e6296aecf40fd586f78c436c685e", "title": "what s going on with apple stock friday", "tickers": ["AAPL"], "ts": 1784289873.6958256}
+{"key": "2f3dda3a29b4b74e4657cabf5cb13dbdd294d3e6", "title": "tesla stock in the spotlight a look at upcoming earnings analyst activity technical picture", "tickers": ["TSLA"], "ts": 1784289873.7000055}
+{"key": "cdab34215cf89f857827f4f96329f87375aaaabd", "title": "abbott to rally more than 35 here are 10 top analyst forecasts for friday", "tickers": ["ABT", "ISRG", "MMM", "MTB", "NFLX", "OKE", "PPG", "SBAC", "TSCO"], "ts": 1784289873.7124321}
+{"key": "5997bea996f946477b8cee9d96a2119b4c419ed5", "title": "intuitive surgical netflix and other big stocks moving lower in friday s pre market session", "tickers": ["AMAT", "ISRG", "NFLX"], "ts": 1784289873.7220182}
