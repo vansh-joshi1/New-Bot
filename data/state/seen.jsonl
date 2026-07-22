@@ -1,77 +1,3 @@
-{"key": "310a4fd63eb6698282cc1f5988e27eeeccae8005", "title": "guggenheim maintains buy on target raises price target to 150", "tickers": ["TGT"], "ts": 1784559375.8066528}
-{"key": "6d7a8066c46e25c7fafe25a417a5c7eccd02e0ad", "title": "this charles schwab analyst is no longer bullish here are top 5 downgrades for monday", "tickers": ["MNST", "SCHW"], "ts": 1784559377.7332346}
-{"key": "65b19f25e5bb4a268663cfcae9497a027f75a546", "title": "morgan stanley maintains underweight on archer daniels midland raises price target to 60", "tickers": ["ADM"], "ts": 1784559392.1101425}
-{"key": "6a7b6fc986d81ca8af0426229f296031b65ceb58", "title": "domino s ceo says growth story is as strong as ever", "tickers": ["DPZ"], "ts": 1784559406.4972951}
-{"key": "25dbc14edd417a75808d781e01ffe42ecb607d30", "title": "wells fargo maintains overweight on accenture lowers price target to 194", "tickers": ["ACN"], "ts": 1784559408.5804093}
-{"key": "7f528f348a76e219f2b9cd714bb77e5ff86698eb", "title": "wells fargo maintains overweight on datadog raises price target to 295", "tickers": ["DDOG"], "ts": 1784559410.5216753}
-{"key": "5ccaeb576406a8bbcb9f19afddd906103c2deb89", "title": "guggenheim maintains buy on universal health services lowers price target to 195", "tickers": ["UHS"], "ts": 1784559424.8775604}
-{"key": "028f81ecc72a776cbb6c5f31056020b62d4f3f53", "title": "halliburton gears up for q2 print here are the recent forecast changes from wall street s most accurate analysts", "tickers": ["HAL"], "ts": 1784559439.2450664}
-{"key": "a75d33d2ed2bfcb82482f4f5d87ed82ec4de8dd2", "title": "jeff bezos backs 2 6 billion ai startup teaming up with nvidia and meta to tackle one of the chip industry s biggest challenges", "tickers": ["AMZN", "META", "NVDA"], "ts": 1784559453.6264038}
-{"key": "dd450e8e9da5e89338f8e9a18daab74b9205baed", "title": "guggenheim reiterates buy on home depot maintains 425 price target", "tickers": ["HD"], "ts": 1784559453.6267772}
-{"key": "b543de5638ace98ed55a576cf95f9bd021fe7625", "title": "evercore isi group upgrades u s bancorp to outperform raises price target to 72", "tickers": ["USB"], "ts": 1784559467.977567}
-{"key": "a0a98dbd1fa5853f5ad92bc8275782160ee23348", "title": "evercore isi group maintains in line on bank of new york mellon raises price target to 158", "tickers": ["BNY"], "ts": 1784559482.2932684}
-{"key": "1ed7cbd2b61ba1811992864a94aa9901bc89a1dc", "title": "wells fargo maintains underweight on fortinet raises price target to 120", "tickers": ["FTNT"], "ts": 1784559496.6965094}
-{"key": "a718555b4eaf485ea62be571d0dd0c9265ea3ab3", "title": "evercore isi group maintains outperform on lam research raises price target to 355", "tickers": ["LRCX"], "ts": 1784559511.0660353}
-{"key": "38250be8b3d4892ae168353da38ca5b1560be0c5", "title": "spacex wants to power pentagon ai microsoft amazon and google already do", "tickers": ["AMZN", "GOOG", "GOOGL", "MSFT", "ORCL"], "ts": 1784559525.3844805}
-{"key": "290bd56ebfe50f52a706a8601ae22ffd523c81cd", "title": "evercore isi group maintains outperform on state street raises price target to 200", "tickers": ["STT"], "ts": 1784559525.3847895}
-{"key": "0a09a1545f11bfdcf3bbbfcd35fda4b9f8ecb9ee", "title": "evercore isi group maintains in line on travelers companies raises price target to 338", "tickers": ["TRV"], "ts": 1784559539.7595932}
-{"key": "eaf6682f3ba58734626bf39463cf3220a1af3934", "title": "microsoft expands amd partnership to deploy helios ai systems and new epyc powered azure vms", "tickers": ["AMD", "MSFT"], "ts": 1784559554.1208153}
-{"key": "efa5d8fc7d6e2a643e454bf6947db14e33f1ad30", "title": "google plans new frozen chip to run its ai models much more efficiently the information", "tickers": ["GOOG", "GOOGL"], "ts": 1784559554.123286}
-{"key": "736f0440c20e9af1c2192ed1cfe4a8a05d15f40f", "title": "rtx s pratt whitney selected to supply leasing firm jackson square aviation with its gtf engine to power an undisclosed number of airbus a320neo aircraft", "tickers": ["RTX"], "ts": 1784559554.125318}
-{"key": "74de9a888958e1bf06a122da0383ae717feb426a", "title": "how to earn 500 a month from 3m stock ahead of q2 earnings", "tickers": ["MMM"], "ts": 1784559554.1258192}
-{"key": "eedcb82ba355952ef45589e5334fc558fa7e36ba", "title": "apple unitedhealth group and a basic material stock cnbc s final trades", "tickers": ["AAPL", "UNH"], "ts": 1784559554.1273508}
-{"key": "19f7d6f71184da3604b624eb130540b719ff6893", "title": "wells fargo maintains equal weight on microchip technology lowers price target to 88", "tickers": ["MCHP"], "ts": 1784559554.1275766}
-{"key": "5be953e8b716a441c4540f6f4e938e073a207274", "title": "keefe bruyette woods maintains market perform on regions financial raises price target to 33", "tickers": ["RF"], "ts": 1784559554.127764}
-{"key": "526821830b74c1427b1ffbb020faddc82631973b", "title": "wells fargo maintains overweight on monolithic power systems lowers price target to 1700", "tickers": ["MPWR"], "ts": 1784559554.1279438}
-{"key": "735a3c70a9973e29d1de82a9fd398bc1c726ca27", "title": "wells fargo maintains equal weight on nxp semiconductors lowers price target to 290", "tickers": ["NXPI"], "ts": 1784559554.1281273}
-{"key": "cab3d0b93178127823a52f22fbb9aa7850cc797e", "title": "cantor fitzgerald maintains overweight on servicenow raises price target to 141", "tickers": ["NOW"], "ts": 1784559554.1282926}
-{"key": "d4aead991d19b96ebb895b4255c67d9e0c191eca", "title": "wells fargo maintains overweight on on semiconductor lowers price target to 130", "tickers": ["ON"], "ts": 1784559554.1284478}
-{"key": "7159883da11064946cf5c5eaf79ceca4c0c19c17", "title": "da davidson maintains buy on fifth third bancorp raises price target to 65", "tickers": ["FITB"], "ts": 1784559554.1290777}
-{"key": "1381dc5bc6278826d95845cf2147355c4f0fb1ff", "title": "keefe bruyette woods maintains market perform on truist financial raises price target to 55", "tickers": ["TFC"], "ts": 1784559554.129867}
-{"key": "e254fce6aa7a06b4619ab6e42fbb11dbdc81c117", "title": "investors pour record 46 billion into semiconductor etfs what the technicals say next", "tickers": ["AMD", "AMZN", "AVGO", "GOOGL", "META", "MSFT", "MU", "NVDA"], "ts": 1784559554.1359463}
-{"key": "5be96fa74b425b0b9c276ed518f7e4b0270a53b6", "title": "ai trade s favorite chip etf sees record inflows despite worst month since 2008", "tickers": ["MU"], "ts": 1784559554.1372333}
-{"key": "262a0d6d221e612d5111254ec18bd04fdbcecaf9", "title": "barclays maintains overweight on firstenergy raises price target to 55", "tickers": ["FE"], "ts": 1784559554.1375368}
-{"key": "8bda3ce17a64a6cb5ee3992225d349e3537b311a", "title": "why is netflix stock falling monday", "tickers": ["NFLX"], "ts": 1784559554.1381984}
-{"key": "df09aff74a15886139470931442ef3c786c45148", "title": "citizens maintains market outperform on datadog raises price target to 311", "tickers": ["DDOG"], "ts": 1784559554.1386573}
-{"key": "5076b588a767e9061db218457a8d5f27bbbb1c9f", "title": "barclays maintains overweight on nisource raises price target to 51", "tickers": ["NI"], "ts": 1784559554.1388226}
-{"key": "3a16458315ec6d29cd73d1e667a7538350f9e729", "title": "coca cola stock in focus a look at the earnings analyst activity technical picture", "tickers": ["KO"], "ts": 1784559554.1389985}
-{"key": "8150be270f5380182976e556a525431d913a4a5c", "title": "barclays maintains overweight on unitedhealth group raises price target to 441", "tickers": ["UNH"], "ts": 1784559554.1394596}
-{"key": "b54b50203370951902809b8260367a16a851a04d", "title": "honeywell aerospace bags landmark indigo contract", "tickers": ["HONA"], "ts": 1784559554.1400306}
-{"key": "cd2ca038a7a274307ae36c991b967e1e07a0854c", "title": "former f 16 thrust vectoring system integrated with x bat flight global", "tickers": ["GE"], "ts": 1784559554.1406083}
-{"key": "137fb2da631a19e0dbe471b1339e538576e5b910", "title": "alibaba s aliexpress hit with record 628 million fine for failing to curb illegal unsafe product listings", "tickers": ["GOOG", "GOOGL", "META"], "ts": 1784559554.1453748}
-{"key": "13e984afd17079145de187828795a3c0b1828944", "title": "quick spark yum brands may soon serve traders a death cross", "tickers": ["YUM"], "ts": 1784559554.1457703}
-{"key": "a647268198fca3786aa29e5e01d36a81f1b5f8d4", "title": "watching datadog hearing investor business daily swingtrader buys stock", "tickers": ["DDOG"], "ts": 1784559554.1465523}
-{"key": "6d256a09d47433068ddf56283f325f62db1f9624", "title": "truist securities maintains buy on albemarle lowers price target to 245", "tickers": ["ALB"], "ts": 1784559554.1466806}
-{"key": "fe0cc3e2ecebb13ac2e945c28511e90004793d1d", "title": "why is iren stock jumping on monday", "tickers": ["MSFT"], "ts": 1784559554.1477232}
-{"key": "5ff3f555c58a2144828a710543bd1e1a38483dc3", "title": "nasdaq surges 1 domino s shares gain after q2 results", "tickers": ["DPZ"], "ts": 1784559554.1487193}
-{"key": "5f5828c32f1646ee02524473f4d77cf79dfbb53c", "title": "intel s most overlooked edge over tsmc starts with pat gelsinger s great depression warning", "tickers": ["AAPL", "AMD", "INTC", "NVDA", "QCOM"], "ts": 1784559554.1543465}
-{"key": "a06cc4c42294a745828eedbef6feec4f6f581294", "title": "if you invested 1000 in lumentum holdings stock 10 years ago you would have this much today", "tickers": ["LITE"], "ts": 1784559554.1546452}
-{"key": "41e716e51b6221388c60dadbf6f3e1b8eeecdb2a", "title": "boeing scores major airline wins as fleet modernization accelerates", "tickers": ["BA"], "ts": 1784559554.1569247}
-{"key": "f30dfd701927c8293febad95db2aada4113d605d", "title": "bristol myers squibb supercharges drug discovery with nvidia ai", "tickers": ["BMY", "NVDA"], "ts": 1784559554.1592762}
-{"key": "675a5989a9e800cb0422293242a8e60870f1bb24", "title": "amc entertainment iren hut 8 and other big stocks moving higher on monday", "tickers": ["TER"], "ts": 1784559554.1595113}
-{"key": "e105f7778e96d33731b6bfe2208a9cc475688a3d", "title": "everyone i know wants to buy in october analyst warns why is that a red flag for bitcoin", "tickers": ["BLK"], "ts": 1784559554.1598852}
-{"key": "b5d462708032770e922805021c6d947a8609f30d", "title": "why is intel stock soaring monday", "tickers": ["GOOGL", "INTC"], "ts": 1784559554.161317}
-{"key": "289c1bfccc1d01bdf02789c6c6c30184be87bb1b", "title": "coca cola appoints jpmorgan citi for india bottler ipo sources say", "tickers": ["C", "JPM", "KO"], "ts": 1784559554.1622949}
-{"key": "6e7c56ca777cac83b01e3e082a832a33c6e8f375", "title": "quick spark spacex s brutal week erased more stock value than boeing s entire market cap", "tickers": ["BA"], "ts": 1784559554.1643276}
-{"key": "d8b4aa08253b7421a7deec27fd342925a9b48ce5", "title": "why is cipher digital stock surging on monday", "tickers": ["AMZN"], "ts": 1784559554.1658773}
-{"key": "b48fbe471266320bf095b24badcc906bf0a1257a", "title": "big short investor steve eisman forget the banks ai now controls us economy s fate", "tickers": ["BAC", "C", "GS", "IBM", "JPM", "WFC"], "ts": 1784559554.1673717}
-{"key": "176cec27644c576cb302e5af613f4b1abe1fc621", "title": "travelers analysts increase their forecasts after better than expected q2 results", "tickers": ["TRV"], "ts": 1784559554.1683898}
-{"key": "3235fe84ba6993e0b5e5379cd37a8bf410e00391", "title": "reported earlier adm appoints jeff rowe to newly created role of coo effective aug 17", "tickers": ["ADM"], "ts": 1784559554.1688023}
-{"key": "e75a93c8b141ac0a70c574c1b1f1acf5168a7742", "title": "jp morgan maintains neutral on american international gr raises price target to 90", "tickers": ["AIG"], "ts": 1784559554.1689718}
-{"key": "65859930d1e90f6e33136d22479ef61d829a75e4", "title": "intel could swing 61 4 billion in value after earnings this week", "tickers": ["AXP", "BX", "DHR", "GEV", "GOOG", "GOOGL", "INTC", "IVZ", "LMT", "NOW", "PM", "TMO", "TMUS", "TSLA", "TXN", "UNP", "VZ"], "ts": 1784559554.174762}
-{"key": "a8625f9610f045794c31f31b50be4db4ca88fe85", "title": "here s how much you would have made owning stryker stock in the last 20 years", "tickers": ["SYK"], "ts": 1784559554.1750586}
-{"key": "d6a6e550a777ce0c37b1cb5674430de2d6bc6001", "title": "ge aerospace stock rises as hybrid electric flight reaches new heights", "tickers": ["BA", "GE"], "ts": 1784559554.178123}
-{"key": "126e4fddef7468fe75e2f43754976e8567b9dfe5", "title": "truist securities maintains buy on travelers companies raises price target to 425", "tickers": ["TRV"], "ts": 1784559554.1791327}
-{"key": "8a613da5787a960b3d3895cd2f5d0fcc4fee9aa3", "title": "stifel maintains buy on a o smith raises price target to 76", "tickers": ["AOS"], "ts": 1784559554.1792827}
-{"key": "43e37dd1a09e359bf35b7e68e4dfaebccc50508c", "title": "td cowen maintains hold on t rowe price group lowers price target to 107", "tickers": ["TROW"], "ts": 1784559554.1794536}
-{"key": "58e56b498f7b67582a091c9620fe8f4842104a22", "title": "td cowen maintains buy on nasdaq raises price target to 105", "tickers": ["NDAQ"], "ts": 1784559554.1798801}
-{"key": "2c1ec0feba082d7abd97cdd1b74e233842afadd3", "title": "blackrock eyes more than 12 billion debt for texas data center", "tickers": ["BLK"], "ts": 1784559554.180321}
-{"key": "16e34b626221937e902575a0d2502ca79d8303f0", "title": "clinical trial results show extended benefits for regenxbio retinal treatments", "tickers": ["ABBV"], "ts": 1784559554.1804795}
-{"key": "fd40bac3cee2f5748d77a8d193802aef67f76bd7", "title": "jp morgan maintains neutral on chubb raises price target to 374", "tickers": ["CB"], "ts": 1784559554.1807468}
-{"key": "013adfdb6c2e7be9d2ba657dce9df2a8ed6dc41a", "title": "here s how much you would have made owning mastercard stock in the last 15 years", "tickers": ["MA"], "ts": 1784559554.1809313}
-{"key": "7a7b1bd8c6d53f7bae84f81c0f0bcf55c8dc7adb", "title": "jp morgan maintains overweight on ge aerospace raises price target to 400", "tickers": ["GE"], "ts": 1784559554.1820736}
-{"key": "a7feae8dea6307ce0c2cbbe896d466ca48b38fc6", "title": "jp morgan maintains neutral on the hartford insurance gr raises price target to 152", "tickers": ["HIG"], "ts": 1784559554.1822689}
-{"key": "f5ee7a1d44a2e0ec4d2c3f1ed55d1ddff0732b3a", "title": "what is going on with apple stock on monday", "tickers": ["AAPL", "NVDA"], "ts": 1784559554.1848006}
 {"key": "815918efc968bf3a95f553d06b17ba7738b3607d", "title": "this house of representative just sold up to 270k in adobe stock", "tickers": ["ADBE"], "ts": 1784564715.6486917}
 {"key": "c45e11b4c4e4134028a6223cf996e76f2b9a61c7", "title": "martin shkreli says micron is closing in on nvidia s profits i like micron right now", "tickers": ["MU", "NVDA"], "ts": 1784564715.6529663}
 {"key": "04db92c393eeec322a9a2d454dd5c7411dbe5591", "title": "100 invested in jpmorgan chase 15 years ago would be worth this much today", "tickers": ["JPM"], "ts": 1784564715.654391}
@@ -705,3 +631,69 @@
 {"key": "97fe7088517afa16a5283ee7d85cf14f1fb5192e", "title": "alphabet microsoft meta earnings will spotlight ai spending but the bigger story may be in the footnotes", "tickers": ["AMZN", "GOOG", "GOOGL", "META", "MSFT", "NVDA", "ORCL"], "ts": 1784725756.5737216}
 {"key": "b82451e84e9873122e6daf22cda4b5099711cdac", "title": "the nvidia led ai supercycle is accelerating and taiwan just confirmed it", "tickers": ["NVDA"], "ts": 1784725756.583198}
 {"key": "7d9ebe3550548ee2a8928cc29c8a20041ac85a65", "title": "cantor fitzgerald maintains neutral on fiserv lowers price target to 53", "tickers": ["FISV"], "ts": 1784725756.5841193}
+{"key": "2a9ce7d9a3406d010f428b7bd9cad2202c036028", "title": "karman space defense receives 21 3m northrop grumman contract for proof of manufacture phase of u s navy s mk 54 torpedo fleet exercise section program", "tickers": ["NOC"], "ts": 1784733263.579461}
+{"key": "69e0650455d976ffe73b1a57cd2e533716b81364", "title": "cantor fitzgerald maintains overweight on block raises price target to 95", "tickers": ["XYZ"], "ts": 1784733263.5801466}
+{"key": "1be4c61c0adaf74bd3e6061423e88765c909038b", "title": "cantor fitzgerald initiates coverage on generac holdings with overweight rating announces price target of 325", "tickers": ["GNRC"], "ts": 1784733265.2603726}
+{"key": "e6efd7de1775b442cd0f8d943986fa8d29ac7969", "title": "joby signs exclusive virgin atlantic deal to launch uk electric air taxi service", "tickers": ["DAL"], "ts": 1784733269.7929876}
+{"key": "6ec3a1a8f8e40dbca4af0cf5542e1f74d415424d", "title": "qualcomm expands collaboration with samsung to expand use of snapdragon to power new galaxy lineup of smartphones watches and intelligent eyewear", "tickers": ["QCOM"], "ts": 1784733269.7943056}
+{"key": "76e7363b421dee32be314989c8b77d58f6575e3a", "title": "nvidia open sources first gpu accelerated medical physics simulation framework", "tickers": ["NVDA"], "ts": 1784733269.8034868}
+{"key": "0469160adc01452599528e77144b688555c64420", "title": "stephens co maintains overweight on eqt raises price target to 72", "tickers": ["EQT"], "ts": 1784733269.804248}
+{"key": "65c813612880963e4ed1743ec44064183275bd64", "title": "openai plans to spend over 30 billion on georgia data center", "tickers": ["MSFT"], "ts": 1784733271.7901192}
+{"key": "8b203b4bec064302e4188f4733722aaae317d1a0", "title": "barclays maintains equal weight on realty income lowers price target to 67", "tickers": ["O"], "ts": 1784733271.7904465}
+{"key": "ecb428546c1a350cbf904fbfdcf08602d834a845", "title": "barclays maintains overweight on steel dynamics raises price target to 272", "tickers": ["STLD"], "ts": 1784733286.1317155}
+{"key": "21f5e12e1ee406647e68611cf97ddf7a43a1c46f", "title": "what s going on with apple stock wednesday", "tickers": ["AAPL"], "ts": 1784733300.5404952}
+{"key": "26998629df1fabb7afb4dde2eb2336e63e8396fc", "title": "barclays maintains equal weight on super micro computer raises price target to 38", "tickers": ["SMCI"], "ts": 1784733315.658533}
+{"key": "053c88baf9b1ccc950a3e07c66f81e29321b5f2d", "title": "barclays maintains overweight on charles schwab raises price target to 125", "tickers": ["SCHW"], "ts": 1784733330.0738297}
+{"key": "c478ee8101277b43819d38482b533e0eec5403b0", "title": "google earnings prediction market preview what will sundar pichai say", "tickers": ["GOOG", "GOOGL", "NVDA"], "ts": 1784733344.5624723}
+{"key": "51ca0ea7c7b825617e7835185027932a50d1c809", "title": "crowdstrike partners with cerebras systems to leverage cerebras s inference speed for falcon ai detection response", "tickers": ["CRWD"], "ts": 1784733357.8917787}
+{"key": "7d1fd93097b143bc0cbc2680f98ae781f86632fa", "title": "barclays maintains overweight on vici properties lowers price target to 31", "tickers": ["VICI"], "ts": 1784733357.8920572}
+{"key": "46fca7836f6a1beb566be2d5a5bb3bdf6a1e6763", "title": "allison transmission to provide 3k eagle v armored vehicles with general dynamics european land systems to german armed forces", "tickers": ["GD"], "ts": 1784733372.357439}
+{"key": "98c408bc642d6fe60ed604676653b3a568bf0bd4", "title": "these analysts boost their forecasts on eqt after q2 results", "tickers": ["EQT"], "ts": 1784733372.3584075}
+{"key": "833e273f4cdea877f7ea3fe715890e293155d8f7", "title": "otis worldwide q2 2026 earnings call complete transcript", "tickers": ["OTIS"], "ts": 1784733386.7796745}
+{"key": "2d34cf045a9ab3a117174e970452cf5baabc6668", "title": "wells fargo maintains overweight on public service enterprise lowers price target to 91", "tickers": ["PEG"], "ts": 1784733401.136732}
+{"key": "f5716708281852abfbcb80d99081e9ef8755e437", "title": "westinghouse air brake q2 2026 earnings call complete transcript", "tickers": ["WAB"], "ts": 1784733415.520272}
+{"key": "6001646e37511248e7b78737bacd4be4c72186a8", "title": "at t q2 2026 earnings call complete transcript", "tickers": ["T"], "ts": 1784733429.995295}
+{"key": "941ffb577d2e0ea6f7f9312115bd6ab0c18adb16", "title": "france just took on tiktok facebook instagram and x with europe s toughest social media ban for kids", "tickers": ["META"], "ts": 1784733444.3698843}
+{"key": "bd8f75bcd0aa0b4dc5b0b2a00adef812309e2173", "title": "pultegroup q2 2026 earnings call complete transcript", "tickers": ["PHM"], "ts": 1784733444.3705497}
+{"key": "37f311ec1cba423c0255e02fcf9ff6c9ced89e75", "title": "google says committing 40m of ai tokens and cloud credits for researchers in support of the genesis mission", "tickers": ["GOOG", "GOOGL"], "ts": 1784733444.3794234}
+{"key": "d0f72ac8416beec27903411bdd119d480abd9694", "title": "nasdaq down over 100 points at t shares gain after upbeat earnings", "tickers": ["T"], "ts": 1784733444.3816085}
+{"key": "b1142b409cecfc6be11671ac72125dae35b42737", "title": "rand paul slams 1 5 trillion pentagon ask the biggest threat to america isn t iran it s the debt", "tickers": ["CVX", "LMT", "XOM"], "ts": 1784733444.3840206}
+{"key": "2b05fd766991dffc0a1c5f282ad7ea815b07281d", "title": "full transcript cme group q2 2026 earnings call", "tickers": ["CME"], "ts": 1784733444.3846474}
+{"key": "357e8006db62e4671a8f9139b8e0be353b721788", "title": "msci linked etf aum tops 2 8 trillion but investors still sold the stock", "tickers": ["MSCI"], "ts": 1784733444.3859198}
+{"key": "c5db43e3072e280786ac68a7d2c8f4482f44dd15", "title": "100 invested in phillips 66 5 years ago would be worth this much today", "tickers": ["PSX"], "ts": 1784733444.3866568}
+{"key": "4519415d09cd1cd4668a87ce9d2ff098cd943446", "title": "what s going on with intel stock wednesday", "tickers": ["INTC"], "ts": 1784733444.3888063}
+{"key": "310398d9120648e2e4ac5cbd3150bc06a8eeb095", "title": "hpe selected to participate in multiple r d projects in first phase of u s department of energy s genesis mission", "tickers": ["HPE"], "ts": 1784733444.3894458}
+{"key": "5c3ffc8a50cc43c2b85385d9d739c521cefa6b1e", "title": "doordash expands crimson banking platform with astra powered instant deposits", "tickers": ["DASH"], "ts": 1784733444.3897038}
+{"key": "a0d279c3725d2f99bdeaec51dd684f0f331e032d", "title": "northern trust q2 2026 earnings call complete transcript", "tickers": ["NTRS"], "ts": 1784733444.3901343}
+{"key": "5937ed05fb55c3f23d16bd9fe48c4d8ddac702a0", "title": "cme group weatherford international rpm international and other big stocks moving higher on wednesday", "tickers": ["CME", "DELL", "SMCI", "WAB"], "ts": 1784733444.3958595}
+{"key": "e608a14c92d05f4cdbbda06e2792c469e129ccbe", "title": "boeing lufthansa technik sign agreement for german armed forces new ch 47f chinook heavy lift helicopter sustainment", "tickers": ["BA"], "ts": 1784733444.4007452}
+{"key": "d6623e35f62931c41daf0db7dc0c45fd17761ff6", "title": "quick spark china s ev price war can t last forever unsustainable gm ceo says", "tickers": ["F", "GM", "TSLA"], "ts": 1784733444.4092374}
+{"key": "42c4c24d36e2f93361fafb3cdc1372895077a576", "title": "reddit stock tumbles wednesday what s happening", "tickers": ["GOOG"], "ts": 1784733444.4130237}
+{"key": "d648b74941d493b4f999a37f2030f6467b8d51eb", "title": "reported july 21 2026 wsj issued article reporting reddit weighs cutting off google s ai access to its content as partnership comes under review", "tickers": ["GOOG", "GOOGL"], "ts": 1784733444.4234295}
+{"key": "2d3272f68ea8a5925d88d46ec7785617728e3afd", "title": "here s how much you would have made owning visa stock in the last 15 years", "tickers": ["V"], "ts": 1784733444.4240866}
+{"key": "b4b7aba7d70e4d95e98f328e218cfafcc3f38d60", "title": "philip morris intl q2 2026 earnings call complete transcript", "tickers": ["PM"], "ts": 1784733444.4253137}
+{"key": "82178ded9f9bd50a9b8244b68aa4412cf7b143b5", "title": "apple plans overhaul of macbooks imac in push to meet ai demand bloomberg news", "tickers": ["AAPL"], "ts": 1784733444.4293303}
+{"key": "be5a73cf4edd6cc5cc1df02f951cb946045ab12c", "title": "jp morgan maintains overweight on general motors raises price target to 120", "tickers": ["GM"], "ts": 1784733444.432862}
+{"key": "64b6f12000daa203e394e83224a07db5927ab261", "title": "rbc capital maintains outperform on jacobs solutions raises price target to 171", "tickers": ["J"], "ts": 1784733444.4334888}
+{"key": "6107a9fba78a85b42944ef73ed0e17987652f71f", "title": "jp morgan maintains neutral on steel dynamics raises price target to 260", "tickers": ["STLD"], "ts": 1784733444.434943}
+{"key": "33128021cfc82e4781ee04cebc027989a3a5cbee", "title": "nike severs chinese distribution deals in broad strategic shift", "tickers": ["NKE"], "ts": 1784733444.4355907}
+{"key": "d064de9cdad477201f59a2fce69a1b4d2a2b3cac", "title": "ge vernova stock falls after profit miss wind unit remains a drag", "tickers": ["GEV"], "ts": 1784733444.4376533}
+{"key": "f474ca03b0c4317fa64b08018ee73dd20d1bcc17", "title": "rbc capital maintains underperform on d r horton raises price target to 125", "tickers": ["DHI"], "ts": 1784733444.4388182}
+{"key": "7f3d5bc8f7625b7bb11b7937dd15f7589b146e9b", "title": "ge aerospace magellan aerospace sign memorandum of understanding for f414 sustainment", "tickers": ["GE"], "ts": 1784733444.4409657}
+{"key": "69c4249b224b6063946086e3b2f337326ab8ddab", "title": "rbc capital maintains outperform on danaher raises price target to 215", "tickers": ["DHR"], "ts": 1784733444.4424202}
+{"key": "116e2dcc65d0d48ff33aed5a242fd390873983d4", "title": "rbc capital maintains outperform on equifax lowers price target to 194", "tickers": ["EFX"], "ts": 1784733444.4442475}
+{"key": "92abed8d4e62f39f68543a3ef7b53c860d0b3c36", "title": "germany opens up competition for autonomous combat plane order", "tickers": ["BA"], "ts": 1784733444.4472578}
+{"key": "7bea1606e2bdb1fc264e56646fedb7bba530af53", "title": "rbc capital maintains outperform on general motors raises price target to 100", "tickers": ["GM"], "ts": 1784733444.4508784}
+{"key": "ab49cdce0b374107d2bc336eccf9ba09eca0d677", "title": "rbc capital maintains outperform on keycorp raises price target to 25", "tickers": ["KEY"], "ts": 1784733444.4517925}
+{"key": "d95751350838c0967097c83d81fe5454d21838f0", "title": "quick spark jpmorgan stock eyes longest weekly winning streak since early 2024", "tickers": ["JPM"], "ts": 1784733444.4540887}
+{"key": "6de2de5a0c646b64e6e1808c59616c5f67110646", "title": "rbc capital maintains sector perform on synchrony financial lowers price target to 80", "tickers": ["SYF"], "ts": 1784733444.4552798}
+{"key": "d896db2ac44bf51b89df1afde19e66fb77782e32", "title": "evercore isi group maintains in line on d r horton raises price target to 177", "tickers": ["DHI"], "ts": 1784733444.4565063}
+{"key": "19ded16099cfafceb7c5b1e68c1d209006d6defa", "title": "this senator just sold up to 28 36m in williams companies stock", "tickers": ["WMB"], "ts": 1784733444.4568033}
+{"key": "fa261af51526b4c3519c827cfd37c9d2c2b98b4d", "title": "evercore isi group maintains outperform on genuine parts raises price target to 150", "tickers": ["GPC"], "ts": 1784733444.4582016}
+{"key": "0cf63042dd26b249961a1ebf7b315ab6fe009c91", "title": "1000 invested in cadence design systems 10 years ago would be worth this much today", "tickers": ["CDNS"], "ts": 1784733444.4584994}
+{"key": "1fe57e166a522ef33bede556249c90a644d051ee", "title": "why is sandisk stock falling on wednesday", "tickers": ["SNDK"], "ts": 1784733444.460163}
+{"key": "c0aacc3fa759a1f94f4839b253c4fee641e428a3", "title": "evercore isi group maintains outperform on halliburton lowers price target to 43", "tickers": ["HAL"], "ts": 1784733444.4613397}
+{"key": "a033aac024d0be3b8c928b246ea6b077a5a5c0ff", "title": "evercore isi group maintains outperform on msci lowers price target to 722", "tickers": ["MSCI"], "ts": 1784733444.462632}
+{"key": "314bd6c9ec74e2e25c132c49f89e093c1b693fbc", "title": "rbc capital reiterates outperform on walmart maintains 137 price target", "tickers": ["WMT"], "ts": 1784733444.4632092}
+{"key": "25b61da84a3d5024697e439efa8ffc12fdf1109a", "title": "tesla earnings prediction market preview what will elon musk say", "tickers": ["INTC", "TSLA"], "ts": 1784733444.4694827}
+{"key": "99a34b1e84b397954a530f8191f904ea0fb88a69", "title": "oracle faces pressure data center costs and openai exposure weigh on stock", "tickers": ["AMZN", "GOOGL", "MSFT", "ORCL"], "ts": 1784733444.4806595}
